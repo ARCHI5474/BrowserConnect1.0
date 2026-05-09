@@ -1,2 +1,3 @@
 # BrowserConnect1.0
-Pasidea New Product
+制作途中です。
+ブラウザのトップページにすると便利なリンク集です。
